@@ -67,6 +67,11 @@ button {
     font-weight:bolder;
 }
 
+button:hover{
+   background-color: hsl(75, 94%, 57%);
+   color: black;
+}
+
 .flexbox{
     display: flex;
     justify-content: center;
