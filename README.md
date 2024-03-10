@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-page-of-chart-component-PoFYUfX-A4](https://www.frontendmentor.io/solutions/responsive-page-of-chart-component-PoFYUfX-A4)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-page-of-social-links-profile-2lt2nkPMah](https://www.frontendmentor.io/solutions/responsive-page-of-social-links-profile-2lt2nkPMah)
 - Live Site URL: [https://omyadav-social-links-profile.netlify.app](https://omyadav-social-links-profile.netlify.app)
 
 ## My process
